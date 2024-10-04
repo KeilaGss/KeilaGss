@@ -1,0 +1,6 @@
+-👋 Oi, eu sou @KeilaGss  
+- 👀 Estou interessada em desenvolvimento web, sistemas de automação e educação.  
+- 🌱 Atualmente estou aprendendo sobre IoT, projetos com Arduino e técnicas avançadas de programação.  
+- 💞️ Procuro colaborar em projetos de software inovadores e iniciativas educacionais.  
+- 📫 Como me contatar: keilagss12345@gmail.com
+- ⚡ Curiosidade: Estou cursando pedagogia na UEPB e sou técnica em agropecuária!
